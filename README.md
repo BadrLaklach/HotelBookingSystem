@@ -43,4 +43,4 @@ L'application permet aux **clients** de réserver des chambres en fonction de la
 - Notifications par e-mail  
 
 ## 📩 Contact    
-Si vous avez des questions, n'hésitez pas à nous contacter à **[imaneaitboukdir25@gmail.com](mailto:badrlaklach27@gmail.com)**.  
+Si vous avez des questions, n'hésitez pas à nous contacter à **[badrlaklach27@gmail.com](mailto:badrlaklach27@gmail.com)**.  
