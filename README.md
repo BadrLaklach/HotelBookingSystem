@@ -26,7 +26,7 @@ L'application permet aux **clients** de réserver des chambres en fonction de la
 ## 📦 Installation et Exécution  
 1. **Cloner le dépôt**  
    ```bash
-   git clone https://github.com/Imane-AitBoukdir/BookingSystem.git
+   git clone https://github.com/BadrLaklach/HotelBookingSystem.git
    ```  
 2. **Configurer la base de données**  
    - Importer le fichier SQL dans MySQL  
@@ -43,4 +43,4 @@ L'application permet aux **clients** de réserver des chambres en fonction de la
 - Notifications par e-mail  
 
 ## 📩 Contact    
-Si vous avez des questions, n'hésitez pas à nous contacter à **[imaneaitboukdir25@gmail.com](mailto:imaneaitboukdir25@gmail.com)**.  
+Si vous avez des questions, n'hésitez pas à nous contacter à **[imaneaitboukdir25@gmail.com](mailto:badrlaklach27@gmail.com)**.  
